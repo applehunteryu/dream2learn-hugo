@@ -3,18 +3,17 @@ bg_image = "images/backgrounds/page-title.jpg"
 bio = "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio, culpa aspernatur. Error placeat iusto officia voluptas quae."
 course = "Social Studies"
 description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
-draft = true
 image = ""
 interest = ["Social Studies", "Math"]
 title = "Daniel Gergeus"
 [[contact]]
 icon = "ti-email"
-link = "mailto:th3jj1ang193@gmail.com"
-name = "th3jj1ang193@gmail.com"
+link = "mailto:danielgergeus@gmail.com"
+name = "danielgergeus@gmail.com"
 [[contact]]
 icon = "ti-mobile"
-link = "tel:2675325379"
-name = "2675325379"
+link = "tel:6105640634"
+name = "6105640634"
 
 +++
 ### About Me

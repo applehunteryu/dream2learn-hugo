@@ -20,21 +20,6 @@ contact:
 - name: "+6103245595"
   icon: ti-mobile
   link: tel:+6103245595
-- name: Clark Malik
-  icon: ti-facebook
-  link: "#"
-- name: Clark Malik
-  icon: ti-twitter-alt
-  link: "#"
-- name: Clark Malik
-  icon: ti-skype
-  link: "#"
-- name: clarkmalik.com
-  icon: ti-world
-  link: "#"
-- name: 1313 Boulevard Cremazie,Quebec
-  icon: ti-location-pin
-  link: "#"
 
 ---
 ### About Me

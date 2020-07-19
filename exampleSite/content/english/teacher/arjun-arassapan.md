@@ -5,16 +5,16 @@ course = "Science "
 description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
 draft = true
 image = ""
-interest = ["English", "Chemistry", "Biology"]
+interest = ["Math", "Chemistry"]
 title = "Arjun Arassapan"
 [[contact]]
 icon = "ti-email"
-link = "mailto:alienlegacy@gmail.com"
-name = "alienlegacy@gmail.com"
+link = "mailto:arasarjun@gmail.com"
+name = "arasarjun@gmail.com"
 [[contact]]
 icon = "ti-mobile"
-link = "tel:6103245595"
-name = "6103245595"
+link = "tel:4845024570"
+name = "4845024570"
 
 +++
 ### About Me

@@ -37,7 +37,7 @@ name = "notice"
 weight = 4
 [[menu.footer]]
 URL = "teacher"
-name = "teacher"
+name = "tutors"
 weight = 5
 [[menu.main]]
 URL = "event"

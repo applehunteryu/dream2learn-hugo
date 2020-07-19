@@ -46,7 +46,7 @@ parent = "Others"
 weight = 1
 [[menu.main]]
 URL = "teacher"
-name = "teacher"
+name = "tutors"
 parent = "Others"
 weight = 2
 [[menu.main]]

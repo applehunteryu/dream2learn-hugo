@@ -5,12 +5,12 @@ course = "Math"
 description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
 draft = true
 image = ""
-interest = ["Math", "Chemistry"]
+interest = ["Math"]
 title = "Pranav Sundareshwar"
 [[contact]]
 icon = "ti-email"
-link = "mailto:arasarjun@gmail.com"
-name = "arasarjun@gmail.com"
+link = "mailto:bookaddict874@gmail.com"
+name = "bookaddict874@gmail.com"
 [[contact]]
 icon = "ti-mobile"
 link = "tel:4845024570"

@@ -3,18 +3,13 @@ bg_image = "images/backgrounds/page-title.jpg"
 bio = "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio, culpa aspernatur. Error placeat iusto officia voluptas quae."
 course = "English"
 description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
-draft = true
 image = ""
-interest = ["Social Studies", "English"]
+interest = ["Social Studies", "Chemistry", "Physics", "Math", "English"]
 title = "Alex Mao"
 [[contact]]
 icon = "ti-email"
-link = "mailto:zlofman094@gmail.com"
-name = "zlofman094@gmail.com"
-[[contact]]
-icon = "ti-mobile"
-link = "tel:+13127929794"
-name = "1(312)792-9794"
+link = "mailto:shysleepyhypnomushroom@gmail.com"
+name = "shysleepyhypnomushroom@gmail.com"
 
 +++
 ### About Me

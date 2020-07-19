@@ -3,18 +3,17 @@ bg_image = "images/backgrounds/page-title.jpg"
 bio = "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio, culpa aspernatur. Error placeat iusto officia voluptas quae."
 course = "Social Studies"
 description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
-draft = true
 image = ""
-interest = ["Social Studies", "Math"]
+interest = ["Biology", "Social Studies", "Math"]
 title = "Kovid Tandon"
 [[contact]]
 icon = "ti-email"
-link = "mailto:danielgergeus@gmail.com"
-name = "danielgergeus@gmail.com"
+link = "mailto:23tandonk@gmail.com"
+name = "23tandonk@gmail.com"
 [[contact]]
 icon = "ti-mobile"
-link = "tel:6105640634"
-name = "6105640634"
+link = "tel:215-601-5363"
+name = "215-601-5363"
 
 +++
 ### About Me

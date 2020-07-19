@@ -3,18 +3,17 @@ bg_image = "images/backgrounds/page-title.jpg"
 bio = "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio, culpa aspernatur. Error placeat iusto officia voluptas quae."
 course = "Math"
 description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
-draft = true
 image = ""
-interest = ["Anatomy", "Math", "Chemistry"]
+interest = ["Computer Sciencce", "Math"]
 title = "Eric Zhao"
 [[contact]]
 icon = "ti-email"
-link = "mailto:roywu770@gmail.com"
-name = "roywu770@gmail.com"
+link = "mailto:21zhaoe@tesdk12.net"
+name = "21zhaoe@tesdk12.net"
 [[contact]]
 icon = "ti-mobile"
-link = "tel:4849951677"
-name = "4849951677"
+link = "tel:6105048573"
+name = "6105048573"
 
 +++
 ### About Me

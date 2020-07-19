@@ -20,7 +20,7 @@ contact:
   link: mailto:yiyang0714@email.com
 - name: 1(312)792-9794
   icon: ti-mobile
-  link: tel:+13127929794
+  link: tel:13127929794
 
 ---
 ### About Me

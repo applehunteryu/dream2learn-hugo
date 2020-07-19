@@ -3,18 +3,17 @@ bg_image = "images/backgrounds/page-title.jpg"
 bio = "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio, culpa aspernatur. Error placeat iusto officia voluptas quae."
 course = "Math"
 description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
-draft = true
 image = ""
-interest = ["Computer Sciencce", "Math"]
+interest = ["Chemistry", "Math"]
 title = "Ben Zhao"
 [[contact]]
 icon = "ti-email"
-link = "mailto:21zhaoe@tesdk12.net"
-name = "21zhaoe@tesdk12.net"
+link = "mailto:bcz48188@gmail.com"
+name = "bcz48188@gmail.com"
 [[contact]]
 icon = "ti-mobile"
-link = "tel:6105048573"
-name = "6105048573"
+link = "tel:4842221719"
+name = "4842221719"
 
 +++
 ### About Me

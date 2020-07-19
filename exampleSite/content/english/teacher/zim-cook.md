@@ -10,6 +10,7 @@ bio: Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus 
   ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio,
   culpa aspernatur. Error placeat iusto officia voluptas quae.
 interest:
+- World History
 - Math
 - Chemistry
 - Biology
@@ -20,9 +21,6 @@ contact:
 - name: 1(312)792-9794
   icon: ti-mobile
   link: tel:+13127929794
-- name: 1313 Boulevard Cremazie,Quebec
-  icon: ti-location-pin
-  link: "#"
 
 ---
 ### About Me

@@ -69,17 +69,17 @@ sections:
   templates:
   - notice
 - type: heading
-  label: Teacher
+  label: Tutors
 - type: directory
   path: exampleSite/content/english/teacher
-  label: Teacher (en)
+  label: Tutors (en)
   create: all
   match: "**/*"
   templates:
   - teacher
 - type: directory
   path: exampleSite/content/french/teacher
-  label: Teacher (fr)
+  label: Tutors (fr)
   create: all
   match: "**/*"
   templates:

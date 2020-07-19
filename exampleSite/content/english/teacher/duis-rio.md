@@ -17,24 +17,9 @@ contact:
 - name: jesse.zhanxi.zhang7@gmail.com
   icon: ti-email
   link: mailto:jesse.zhanxi.zhang7@gmail.com
-- name: "+12 034 5876"
+- name: "8189646157"
   icon: ti-mobile
-  link: tel:+120345876
-- name: Clark Malik
-  icon: ti-facebook
-  link: "#"
-- name: Clark Malik
-  icon: ti-twitter-alt
-  link: "#"
-- name: Clark Malik
-  icon: ti-skype
-  link: "#"
-- name: clarkmalik.com
-  icon: ti-world
-  link: "#"
-- name: 1313 Boulevard Cremazie,Quebec
-  icon: ti-location-pin
-  link: "#"
+  link: tel:8189646157
 
 ---
 ### About Me

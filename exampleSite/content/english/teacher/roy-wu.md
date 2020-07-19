@@ -3,18 +3,17 @@ bg_image = "images/backgrounds/page-title.jpg"
 bio = "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio, culpa aspernatur. Error placeat iusto officia voluptas quae."
 course = "Math"
 description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
-draft = true
 image = ""
-interest = ["Math", "Chemistry"]
+interest = ["Anatomy", "Math", "Chemistry"]
 title = "Roy Wu"
 [[contact]]
 icon = "ti-email"
-link = "mailto:17tickles38@gmail.com"
-name = "17tickles38@gmail.com"
+link = "mailto:roywu770@gmail.com"
+name = "roywu770@gmail.com"
 [[contact]]
 icon = "ti-mobile"
-link = "tel:2153470476"
-name = "2153470476"
+link = "tel:4849951677"
+name = "4849951677"
 
 +++
 ### About Me

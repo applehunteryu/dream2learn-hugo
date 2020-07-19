@@ -17,9 +17,9 @@ contact:
 - name: alienlegacy@gmail.com
   icon: ti-email
   link: mailto:alienlegacy@gmail.com
-- name: "+6103245595"
+- name: "6103245595"
   icon: ti-mobile
-  link: tel:+6103245595
+  link: tel:6103245595
 
 ---
 ### About Me

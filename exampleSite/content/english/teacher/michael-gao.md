@@ -3,18 +3,17 @@ bg_image = "images/backgrounds/page-title.jpg"
 bio = "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio, culpa aspernatur. Error placeat iusto officia voluptas quae."
 course = "Math"
 description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
-draft = true
 image = ""
 interest = ["Math", "Chemistry"]
 title = "Michael Gao"
 [[contact]]
 icon = "ti-email"
-link = "mailto:arasarjun@gmail.com"
-name = "arasarjun@gmail.com"
+link = "mailto:17tickles38@gmail.com"
+name = "17tickles38@gmail.com"
 [[contact]]
 icon = "ti-mobile"
-link = "tel:4845024570"
-name = "4845024570"
+link = "tel:2153470476"
+name = "2153470476"
 
 +++
 ### About Me

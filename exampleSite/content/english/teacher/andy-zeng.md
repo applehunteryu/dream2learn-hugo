@@ -1,20 +1,19 @@
 +++
 bg_image = "images/backgrounds/page-title.jpg"
 bio = "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio, culpa aspernatur. Error placeat iusto officia voluptas quae."
-course = "Science "
+course = "Social Studies"
 description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
-draft = true
 image = ""
-interest = ["English", "Chemistry", "Biology"]
+interest = ["Social Studies", "Math"]
 title = "Andy Zeng"
 [[contact]]
 icon = "ti-email"
-link = "mailto:alienlegacy@gmail.com"
-name = "alienlegacy@gmail.com"
+link = "mailto:averyrandomname22@gmail.com"
+name = "averyrandomname22@gmail.com"
 [[contact]]
 icon = "ti-mobile"
-link = "tel:6103245595"
-name = "6103245595"
+link = "tel:4849951633"
+name = "4849951633"
 
 +++
 ### About Me

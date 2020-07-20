@@ -14,10 +14,10 @@ slider:
       enable: true
       label: Sign up now
       link: contact
-  - title: Your bright future is our mission
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
-      exer
+  - title: Join Us In Bringing a Change
+    content: 'We cannot achieve our goals without your help. Please consider joining
+      us as a volunteer tutor to help those who are in need during this global pandemic.
+      Your help means a lot to us and those who are in need of free tutoring. '
     animation_in: left
     animation_out: right
     button:

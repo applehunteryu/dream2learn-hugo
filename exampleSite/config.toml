@@ -129,7 +129,7 @@ link = "#"
 title = "twitter"
 [[params.social]]
 icon = "ti-instagram"
-link = "#"
+link = "#https://www.instagram.com/dream2learnedu/"
 title = "instagram"
 [[params.social]]
 icon = "ti-github"

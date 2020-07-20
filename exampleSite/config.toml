@@ -81,7 +81,7 @@ contact_form_action = "#"
 description = "Free "
 email = "dream2learninc@gmail.com"
 google_analitycs_id = ""
-logo = "/images/dream2learn-logo-only.png"
+logo = "/images/dream2learn-logo-with-text.png"
 mobile = "13127929794"
 top_header = true
 [params.map]

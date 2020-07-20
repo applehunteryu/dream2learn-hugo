@@ -75,14 +75,14 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [params]
-address = "9567 Turner Trace Apt. BC C3G8A4"
-author = "Themefisher"
+address = "564 West Valley Road"
+author = "Dream2Learn"
 contact_form_action = "#"
 description = "This is meta description"
-email = "info@educenter.com"
+email = "dream2learninc@gmail.com"
 google_analitycs_id = ""
 logo = "images/logo.png"
-mobile = "+211234565523"
+mobile = "13127929794"
 top_header = true
 [params.map]
 enable = true

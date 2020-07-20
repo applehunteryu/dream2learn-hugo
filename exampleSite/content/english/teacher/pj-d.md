@@ -3,18 +3,17 @@ bg_image = "images/backgrounds/page-title.jpg"
 bio = "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio, culpa aspernatur. Error placeat iusto officia voluptas quae."
 course = "English"
 description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
-draft = true
 image = ""
 interest = ["Social Studies", "English"]
-title = "PJ D"
+title = "PJ Duffy "
 [[contact]]
 icon = "ti-email"
-link = "mailto:zlofman094@gmail.com"
-name = "zlofman094@gmail.com"
+link = "mailto:pjduffy118@gmail.com"
+name = "pjduffy118@gmail.com"
 [[contact]]
 icon = "ti-mobile"
-link = "tel:+13127929794"
-name = "1(312)792-9794"
+link = "tel:6109086330"
+name = "6109086330"
 
 +++
 ### About Me

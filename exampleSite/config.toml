@@ -78,10 +78,10 @@ weight = 5
 address = "564 West Valley Road"
 author = "Dream2Learn"
 contact_form_action = "#"
-description = "This is meta description"
+description = "Free "
 email = "dream2learninc@gmail.com"
 google_analitycs_id = ""
-logo = "images/logo.png"
+logo = "/images/dream2learn-logo-only.png"
 mobile = "13127929794"
 top_header = true
 [params.map]
